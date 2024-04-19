@@ -1,4 +1,4 @@
-<h1>Hi There, I'm Semen Kataev <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi There, I'm Simon Kataev <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 I'm a **Front End Developer** working at [OnePix](https://onepix.net/). With over 5 years of commercial experience, I am a qualified front-end developer specializing in web development and design. My expertise lies in leading development teams and leveraging top skills in React/Angular for web development. I am seeking a challenging role that fully utilizes my technical skills, allowing me to contribute my valuable experience to the team.
 
