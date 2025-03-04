@@ -1,6 +1,6 @@
 <h1>Hi There, I'm Simon Kataev <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Full Stack Developer**. With over 5 years of commercial experience, I am a qualified front-end developer specializing in web development and design. My expertise lies in leading development teams and leveraging top skills in React/Angular for web development. I am seeking a challenging role that fully utilizes my technical skills, allowing me to contribute my valuable experience to the team.
+I'm a **Full Stack Developer**. With over 5 years of commercial experience, I am a qualified full-stack developer specializing in web development and design. My expertise lies in leading development teams and leveraging top skills in React/Angular, Django, Laravel, WordPress, MERN, ASP.NET for web development. I am seeking a challenging role that fully utilizes my technical skills, allowing me to contribute my valuable experience to the team.
 
 ## SKILL
 
